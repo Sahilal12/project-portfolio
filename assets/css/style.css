@@ -1,0 +1,52 @@
+.navbar {
+  background-color: #262323;
+}
+.jumbroton {
+  padding-top: 6rem;
+  background-color: #262626;
+}
+
+#projects {
+  background-color: #262626;
+  cursor: pointer;
+  
+}
+
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #000000;
+}
+
+footer p {
+  color: white;
+  font-weight: bold;
+}
+
+footer p a {
+  color: white;
+  font-weight: bold;
+}
+
+.social a{
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+  color: #eee;
+  cursor: pointer;
+  margin-right: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-bottom: 35px;
+}
+.social a:hover{
+  transform: scale(1.1);
+  background: #2ecc71;
+  transition: .4;
+}
